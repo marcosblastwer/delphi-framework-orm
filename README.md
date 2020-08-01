@@ -1,2 +1,2 @@
-# delphi-standard-orm
+# delphi-framework-orm
 Standard ORM
